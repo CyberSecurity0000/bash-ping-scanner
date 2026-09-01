@@ -12,7 +12,7 @@ Script em **Bash** para verificar a disponibilidade de hosts a partir de uma lis
 * 📡 Verificação de disponibilidade com `ping`
 * 🟢 Contagem de hosts ativos
 * 🔴 Contagem de hosts inativos
-* 📊 Relatório final
+* 📊 Geração de relatório
 * 🛑 Tratamento de interrupção com `CTRL+C`
 
 ## 🚀 Utilização
@@ -51,7 +51,7 @@ Exemplo de `hosts.txt`:
 * Argumentos
 * Funções
 * Loops
-* Condicionais
+* Estruturas condicionais
 * Operadores
 * Exit Status
 * Redirecionamento
@@ -66,11 +66,11 @@ Exemplo de `hosts.txt`:
 
 ## 🎯 Objetivo
 
-Projeto desenvolvido para praticar **Bash scripting, automação em Linux e conceitos básicos de redes**, aplicando os conhecimentos em um script funcional.
+Projeto desenvolvido para praticar **Bash scripting, automação em Linux e conceitos básicos de redes**, aplicando esses conhecimentos na construção de uma ferramenta funcional.
 
 ## 🔐 Segurança
 
-Utilize este projeto somente em **ambientes próprios, laboratórios ou sistemas para os quais você possua autorização para teste**.
+Utilize este projeto somente em **sistemas próprios, laboratórios ou ambientes para os quais você tenha autorização para realizar testes**.
 
 ## 👨‍💻 Estudos
 
